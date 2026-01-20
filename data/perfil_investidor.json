@@ -2,7 +2,7 @@
   "nome": "João Silva",
   "idade": 32,
   "profissao": "Analista de Sistemas",
-  "renda_mensal": 5000.00,
+  "renda_mensal": 6400.00,
   "perfil_investidor": "moderado",
   "objetivo_principal": "Construir reserva de emergência",
   "patrimonio_total": 15000.00,
@@ -18,6 +18,50 @@
       "meta": "Entrada do apartamento",
       "valor_necessario": 50000.00,
       "prazo": "2027-12"
+    }
+  ]
+  
+  "nome": "Matheus Puskas",
+  "idade": 26,
+  "profissao": "Engenheiro Civil",
+  "renda_mensal": 7800.00,
+  "perfil_investidor": "arrojado",
+  "objetivo_principal": "Comprar carro zero",
+  "patrimonio_total": 37900.00,
+  "reserva_emergencia_atual": 4560.00,
+  "aceita_risco": true,
+  "metas": [
+    {
+      "meta": "Comprar carro zero",
+      "valor_necessario": 270000.00,
+      "prazo": "2033-06"
+    },
+    {
+      "meta": "Entrada no apartamento",
+      "valor_necessario": 55900.00,
+      "prazo": "2029-12"
+    }
+  ]
+
+  "nome": "Giovanna Queen",
+  "idade": 21,
+  "profissao": "Assistente Jurídica",
+  "renda_mensal": 2800.00,
+  "perfil_investidor": "Conservada",
+  "objetivo_principal": "Comprar um apartamento",
+  "patrimonio_total": 7600.00,
+  "reserva_emergencia_atual": 1674.00,
+  "aceita_risco": false,
+  "metas": [
+    {
+      "meta": "Comprar um apartamento",
+      "valor_necessario": 450000.00,
+      "prazo": "2034-02"
+    },
+    {
+      "meta": "Abrir um escritório de advocacia",
+      "valor_necessario": 50000.00,
+      "prazo": "2036-12"
     }
   ]
 }
